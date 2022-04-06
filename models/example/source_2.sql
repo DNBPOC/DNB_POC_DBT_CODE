@@ -1,0 +1,1 @@
+select * from FM_DATA_TEST_DB.dbt_poc.source_2;
