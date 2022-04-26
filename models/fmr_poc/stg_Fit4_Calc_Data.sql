@@ -1,0 +1,1 @@
+select * from VEENA_TEST_DB.dbt_pveena.Fit4_Calc_Data
